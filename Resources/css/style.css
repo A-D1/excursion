@@ -2,13 +2,33 @@ body {
   font-family: Verdana, sans-serif;
   text-align: center;
   background-color: black;
+  color: white;
+  font-weight: 300;
 }
 .title {
-  font-weight: normal;
+  font-weight: bold;
   font-size: 50px;
-  color: white;
 }
-h4 {
+.link {
   color: Aquamarine;
   font-size: 16px;
+}
+.subtitle {
+  font-weight: bold;
+  font-size: 42px;
+}
+#description {
+  font-size: 21px;
+  color: gray;
+}
+image {
+  align-items: center;
+}
+.end {
+  font-weight: bold;
+  font-size: 42px;
+}
+.copy {
+  color: gray;
+  text-align: right;
 }
