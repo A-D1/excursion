@@ -1,0 +1,14 @@
+body {
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+}
+.title {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+h4 {
+  color: Aquamarine;
+  font-size: 16px;
+}
